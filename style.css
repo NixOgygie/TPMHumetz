@@ -1,0 +1,24 @@
+body,html
+{
+    font-family: 'Archivo Narrow', sans-serif;
+}
+
+.nom
+{
+    text-transform: uppercase;
+}
+
+.prenom
+{
+    text-transform: capitalize;
+}
+
+.mail
+{
+    text-transform: lowercase;
+}
+
+.phone
+{
+    margin-left:  10px;
+}
